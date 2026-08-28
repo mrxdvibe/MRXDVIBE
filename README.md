@@ -1,16 +1,25 @@
-## Hi there 👋
+# ⚡ MRXDVIBE
 
-<!--
-**mrxdvibe/MRXDVIBE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Cybersecurity Enthusiast & Security Tool Developer** 🛡️  
+> *Focusing on Offensive Security, Network Auditing, eBPF/XDP Defense Engine Architecture, and Linux Kernel Exploitation.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Technologies & Tools
+- **Languages:** Python, C, Bash
+- **Security Tools:** Nmap, Wireshark, Metasploit, John the Ripper
+- **Environment:** Kali Linux, Arch Linux, WSL, Docker, Termux
+
+---
+
+### 🚀 Public Projects
+- **[AegisXDP](https://github.com/mrxdvibe/AegisXDP):** High-Performance eBPF/XDP Kernel-Level DDoS Mitigation Engine.
+- **[Vendetta](https://github.com/mrxdvibe/Vendetta):** Advanced Security & Target Assessment Framework for Modular Auditing.
+- **[NexusRaid](https://github.com/mrxdvibe/NexusRaid):** Multi-threaded Network Stress & Assessment Infrastructure Tool.
+- **[mrx-scan](https://github.com/mrxdvibe/mrx-scan):** Custom Python Network & Port Scanner.
+
+---
+
+### 📊 GitHub Stats
+![MRXDVIBE GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrxdvibe&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrxdvibe&layout=compact&theme=dark)
